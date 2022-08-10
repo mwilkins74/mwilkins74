@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mwilkins74
 - 👀 I’m primarily interested in Front-End Developement. Hoping to design Apps and Websites in a future role. 
-- 🌱 I’m currently learning JavaScript, React and more to come!
+- 🌱 I’m can utilize JavaScript, React, Ruby and Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - - Email: markwilkins86@gmail.com
